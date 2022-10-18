@@ -18,5 +18,7 @@
         <TextBlock Name="totalChargeTextBox" Width="100" Height="50" Margin="197,202,228,82"/>
         <Label Content="Total Charge after adding &#xA;the delivery charge ($5)" Width="250" Height="100" Margin="26,224,249,10"/>
         <TextBlock Name="totalChargeTextBoxPlus5" Width="100" Height="50" Margin="196,236,229,48"/>
+        <Label Content="Total Charge After GST@10% " Width="250" Height="100" Margin="18,269,257,-35"/>
+        <TextBlock Name="totalChargeTextBoxGST" Width="100" Height="50" Margin="192,277,233,7"/>
     </Grid>
 </Window>
